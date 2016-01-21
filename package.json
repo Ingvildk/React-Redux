@@ -40,7 +40,10 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "install": "^0.4.1",
+    "npm": "^3.5.3",
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "react-redux": "^4.0.6"
   }
 }
